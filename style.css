@@ -28,7 +28,7 @@ body {
   overflow: auto;
 }
 .container::-webkit-scrollbar {
-  width: 15px;
+  width: 4px;
 }
 .container::-webkit-scrollbar-thumb {
   background-color: #fc7475;
